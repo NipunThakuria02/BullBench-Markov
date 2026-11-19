@@ -1,0 +1,16 @@
+.git
+.venv
+**/node_modules
+**/__pycache__
+**/*.pyc
+.env
+.env.*
+data
+model_registry
+imports
+reports
+**/*.db
+**/*.sqlite*
+web
+docs/cache
+*.zip

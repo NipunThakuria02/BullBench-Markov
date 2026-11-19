@@ -1,0 +1,20 @@
+# Optional Render Blueprint. Review the selected paid disk-capable plan before creating services.
+services:
+  - type: web
+    name: bullbench-markov-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile.backend
+    plan: starter
+    autoDeploy: false
+    healthCheckPath: /health
+    envVars:
+      - key: BULLBENCH_SNAPSHOTS
+        value: /var/data/exploratory_snapshots
+      - key: BULLBENCH_REGISTRY
+        value: /var/data/model_registry
+      - key: BULLBENCH_CORS_ORIGINS
+        sync: false
+    disk:
+      name: bullbench-private-data
+      mountPath: /var/data
+      sizeGB: 1

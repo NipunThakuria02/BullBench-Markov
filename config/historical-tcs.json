@@ -1,0 +1,27 @@
+{
+  "research_track": "exploratory",
+  "asset": "TCS",
+  "snapshots": "data/exploratory_snapshots",
+  "price_basis": "exploratory_adjusted_close",
+  "train_end": "2024-12-31",
+  "validation_end": "2025-09-30",
+  "event_quantile": 0.8,
+  "states": [
+    2,
+    3,
+    4
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "max_iter": 300,
+  "evaluation_mode": "locked_historical_test",
+  "threshold_train_end": "2023-03-31",
+  "validation_start": "2025-04-15",
+  "test_start": "2026-01-16",
+  "test_end": "2026-10-16",
+  "protocol_file": "docs/EXPLORATORY_PROTOCOL_V1.md",
+  "protocol_sha256": "66f4ef9b637621cd75fe5706c5c3443dfdf413954b904b5ff801b129a247564f"
+}
