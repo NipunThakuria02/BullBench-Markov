@@ -1,0 +1,722 @@
+[
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 1,
+    "n": 12,
+    "mean_probability": 0.1651127646930802,
+    "event_rate": 0.3333333333333333
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 2,
+    "n": 26,
+    "mean_probability": 0.27877018961065375,
+    "event_rate": 0.4230769230769231
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 3,
+    "n": 73,
+    "mean_probability": 0.34500690901351855,
+    "event_rate": 0.2328767123287671
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 4,
+    "n": 67,
+    "mean_probability": 0.4444486831358389,
+    "event_rate": 0.373134328358209
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 5,
+    "n": 6,
+    "mean_probability": 0.5344763133690879,
+    "event_rate": 0.3333333333333333
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "EWMA",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 1,
+    "n": 90,
+    "mean_probability": 0.1665351181933946,
+    "event_rate": 0.2777777777777778
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 2,
+    "n": 94,
+    "mean_probability": 0.23344860922301935,
+    "event_rate": 0.3617021276595745
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "GARCH-t",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 1,
+    "n": 184,
+    "mean_probability": 0.12558774714081505,
+    "event_rate": 0.32065217391304346
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "HMM",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 0,
+    "n": 8,
+    "mean_probability": 0.08517991278067288,
+    "event_rate": 0.5
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 1,
+    "n": 98,
+    "mean_probability": 0.15308043757915302,
+    "event_rate": 0.3469387755102041
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 2,
+    "n": 55,
+    "mean_probability": 0.24478589684100097,
+    "event_rate": 0.21818181818181817
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 3,
+    "n": 16,
+    "mean_probability": 0.3395398146192581,
+    "event_rate": 0.25
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 4,
+    "n": 4,
+    "mean_probability": 0.4342819537024518,
+    "event_rate": 0.75
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 5,
+    "n": 3,
+    "mean_probability": 0.5229727859290926,
+    "event_rate": 0.6666666666666666
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "LogisticRegression",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 1,
+    "n": 184,
+    "mean_probability": 0.1630611563196027,
+    "event_rate": 0.32065217391304346
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "ObservableMarkov",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 0,
+    "n": 125,
+    "mean_probability": 0.0,
+    "event_rate": 0.288
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Persistence",
+    "bin": 9,
+    "n": 59,
+    "mean_probability": 1.0,
+    "event_rate": 0.3898305084745763
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 1,
+    "n": 184,
+    "mean_probability": 0.155195681511471,
+    "event_rate": 0.32065217391304346
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "Prevalence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 1,
+    "n": 33,
+    "mean_probability": 0.17582137019558977,
+    "event_rate": 0.3333333333333333
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 2,
+    "n": 143,
+    "mean_probability": 0.23772768838840283,
+    "event_rate": 0.32167832167832167
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 3,
+    "n": 8,
+    "mean_probability": 0.3316759056519809,
+    "event_rate": 0.25
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "RandomForest",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 0,
+    "n": 13,
+    "mean_probability": 0.08140444067808297,
+    "event_rate": 0.38461538461538464
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 1,
+    "n": 64,
+    "mean_probability": 0.15927095187362283,
+    "event_rate": 0.375
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 2,
+    "n": 94,
+    "mean_probability": 0.2438033381675152,
+    "event_rate": 0.2978723404255319
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 3,
+    "n": 12,
+    "mean_probability": 0.3418637067079544,
+    "event_rate": 0.16666666666666666
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 4,
+    "n": 1,
+    "mean_probability": 0.49721306562423706,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TCS",
+    "model": "XGBoost",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  }
+]

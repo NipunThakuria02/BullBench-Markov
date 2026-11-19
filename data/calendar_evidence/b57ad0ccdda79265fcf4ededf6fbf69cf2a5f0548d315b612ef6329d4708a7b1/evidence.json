@@ -1,0 +1,879 @@
+{
+  "audit": {
+    "calendar_verified": false,
+    "comparisons": {
+      "HDFCBANK": {
+        "absent_from_candidate_weekdays": [
+          "2023-06-29",
+          "2024-01-22",
+          "2024-05-20",
+          "2024-11-20"
+        ],
+        "announced_muhurat_absent": [
+          "2023-11-12"
+        ],
+        "announced_muhurat_present": [
+          "2021-11-04",
+          "2022-10-24",
+          "2024-11-01",
+          "2025-10-21"
+        ],
+        "observed_on_annual_closure": [
+          "2023-06-28"
+        ],
+        "weekend_observations_without_annual_session_notice": [
+          "2025-02-01"
+        ]
+      },
+      "ICICIBANK": {
+        "absent_from_candidate_weekdays": [
+          "2023-06-29",
+          "2024-01-22",
+          "2024-05-20",
+          "2024-11-20"
+        ],
+        "announced_muhurat_absent": [
+          "2023-11-12"
+        ],
+        "announced_muhurat_present": [
+          "2021-11-04",
+          "2022-10-24",
+          "2024-11-01",
+          "2025-10-21"
+        ],
+        "observed_on_annual_closure": [
+          "2023-06-28"
+        ],
+        "weekend_observations_without_annual_session_notice": [
+          "2025-02-01"
+        ]
+      },
+      "NIFTY 50": {
+        "absent_from_candidate_weekdays": [
+          "2023-06-29",
+          "2024-01-22",
+          "2024-05-20",
+          "2024-11-20",
+          "2026-01-15"
+        ],
+        "announced_muhurat_absent": [],
+        "announced_muhurat_present": [
+          "2021-11-04",
+          "2022-10-24",
+          "2023-11-12",
+          "2024-11-01",
+          "2025-10-21"
+        ],
+        "observed_on_annual_closure": [
+          "2023-06-28"
+        ],
+        "weekend_observations_without_annual_session_notice": [
+          "2024-01-20",
+          "2024-03-02",
+          "2024-05-18",
+          "2025-02-01",
+          "2026-02-01"
+        ]
+      },
+      "RELIANCE": {
+        "absent_from_candidate_weekdays": [
+          "2023-06-29",
+          "2024-01-22",
+          "2024-05-20",
+          "2024-11-20"
+        ],
+        "announced_muhurat_absent": [
+          "2023-11-12"
+        ],
+        "announced_muhurat_present": [
+          "2021-11-04",
+          "2022-10-24",
+          "2024-11-01",
+          "2025-10-21"
+        ],
+        "observed_on_annual_closure": [
+          "2023-06-28"
+        ],
+        "weekend_observations_without_annual_session_notice": [
+          "2025-02-01"
+        ]
+      },
+      "TATASTEEL": {
+        "absent_from_candidate_weekdays": [
+          "2023-06-29",
+          "2024-01-22",
+          "2024-05-20",
+          "2024-11-20"
+        ],
+        "announced_muhurat_absent": [
+          "2023-11-12"
+        ],
+        "announced_muhurat_present": [
+          "2021-11-04",
+          "2022-10-24",
+          "2024-11-01",
+          "2025-10-21"
+        ],
+        "observed_on_annual_closure": [
+          "2023-06-28"
+        ],
+        "weekend_observations_without_annual_session_notice": [
+          "2025-02-01"
+        ]
+      },
+      "TCS": {
+        "absent_from_candidate_weekdays": [
+          "2023-06-29",
+          "2024-01-22",
+          "2024-05-20",
+          "2024-11-20"
+        ],
+        "announced_muhurat_absent": [
+          "2023-11-12"
+        ],
+        "announced_muhurat_present": [
+          "2021-11-04",
+          "2022-10-24",
+          "2024-11-01",
+          "2025-10-21"
+        ],
+        "observed_on_annual_closure": [
+          "2023-06-28"
+        ],
+        "weekend_observations_without_annual_session_notice": [
+          "2025-02-01"
+        ]
+      }
+    },
+    "first_session": "2021-10-01",
+    "g0_passed": false,
+    "last_session": "2026-10-16",
+    "note": "Candidate weekdays are NOT verified trading sessions. Conflicts require amendments; no observation is modified and no executable forecast calendar is produced.",
+    "sources": [
+      {
+        "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+        "complete_calendar": false,
+        "filename": "CMTR46623.pdf",
+        "published_at": null,
+        "published_date": "2020-12-11",
+        "record_count": 19,
+        "reference": "NSE/CMTR/46623",
+        "retrieved_at": null,
+        "sha256": "3c922e234ad2cbe8320cc34507e281477e0ce273ba9ee39d73da2a49d5629add",
+        "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+        "year": 2021
+      },
+      {
+        "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+        "complete_calendar": false,
+        "filename": "CMTR50560.pdf",
+        "published_at": null,
+        "published_date": "2021-12-10",
+        "record_count": 18,
+        "reference": "NSE/CMTR/50560",
+        "retrieved_at": null,
+        "sha256": "731a4f0f3b3633e53ff344ffda23dab0277c4a6608f5a6da8874f931c9be4ead",
+        "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+        "year": 2022
+      },
+      {
+        "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+        "complete_calendar": false,
+        "filename": "CMTR54757.pdf",
+        "published_at": null,
+        "published_date": "2022-12-08",
+        "record_count": 19,
+        "reference": "NSE/CMTR/54757",
+        "retrieved_at": null,
+        "sha256": "035ea9a4178e322549b87c6d72f7fc74c7cec06e2d6074c01ac2a7e6a5a7b621",
+        "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+        "year": 2023
+      },
+      {
+        "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+        "complete_calendar": false,
+        "filename": "CMTR59722.pdf",
+        "published_at": null,
+        "published_date": "2023-12-12",
+        "record_count": 19,
+        "reference": "NSE/CMTR/59722",
+        "retrieved_at": null,
+        "sha256": "7157229ba94c179d280dd0d732da56d0992c482e862fac72d9d3879626c77c8a",
+        "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+        "year": 2024
+      },
+      {
+        "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+        "complete_calendar": false,
+        "filename": "CMTR65587.pdf",
+        "published_at": null,
+        "published_date": "2024-12-13",
+        "record_count": 18,
+        "reference": "NSE/CMTR/65587",
+        "retrieved_at": null,
+        "sha256": "1e0f85615fbbcde9243dd6cafbbad4d9b581b8d2467fd9e27c0a4fe42a720c7d",
+        "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+        "year": 2025
+      },
+      {
+        "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+        "complete_calendar": false,
+        "filename": "CMTR71775.pdf",
+        "published_at": null,
+        "published_date": "2025-12-12",
+        "record_count": 19,
+        "reference": "NSE/CMTR/71775",
+        "retrieved_at": null,
+        "sha256": "aa97e0afc0ce394097f2fc62631c68e3c2e4c7c23541ed35f21d9fc06b0dcacb",
+        "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+        "year": 2026
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+      "complete_calendar": false,
+      "filename": "CMTR46623.pdf",
+      "published_at": null,
+      "published_date": "2020-12-11",
+      "records": [
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Republic Day",
+          "session_date": "2021-01-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Mahashivratri",
+          "session_date": "2021-03-11"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Holi",
+          "session_date": "2021-03-29"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Good Friday",
+          "session_date": "2021-04-02"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Dr.Baba Saheb Ambedkar Jayanti",
+          "session_date": "2021-04-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Ram Navami",
+          "session_date": "2021-04-21"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Id-Ul-Fitr (Ramzan ID)",
+          "session_date": "2021-05-13"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Bakri Id",
+          "session_date": "2021-07-21"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Moharram",
+          "session_date": "2021-08-19"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Ganesh Chaturthi",
+          "session_date": "2021-09-10"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Dussehra",
+          "session_date": "2021-10-15"
+        },
+        {
+          "claim": "muhurat_session_announced",
+          "description": "Thursday         Diwali-Laxmi Pujan*",
+          "session_date": "2021-11-04"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Diwali-Balipratipada",
+          "session_date": "2021-11-05"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Gurunanak Jayanti",
+          "session_date": "2021-11-19"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday         Mahavir Jayanti",
+          "session_date": "2021-04-25"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday       Maharashtra Day",
+          "session_date": "2021-05-01"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday         Independence Day",
+          "session_date": "2021-08-15"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday       Mahatma Gandhi Jayanti",
+          "session_date": "2021-10-02"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday             Christmas",
+          "session_date": "2021-12-25"
+        }
+      ],
+      "reference": "NSE/CMTR/46623",
+      "retrieved_at": null,
+      "sha256": "3c922e234ad2cbe8320cc34507e281477e0ce273ba9ee39d73da2a49d5629add",
+      "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+      "year": 2021
+    },
+    {
+      "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+      "complete_calendar": false,
+      "filename": "CMTR50560.pdf",
+      "published_at": null,
+      "published_date": "2021-12-10",
+      "records": [
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday       Republic Day",
+          "session_date": "2022-01-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Mahashivratri",
+          "session_date": "2022-03-01"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Holi",
+          "session_date": "2022-03-18"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Dr. Baba Saheb Ambedkar Jayanti/",
+          "session_date": "2022-04-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Good Friday",
+          "session_date": "2022-04-15"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Id-Ul-Fitr (Ramzan ID)",
+          "session_date": "2022-05-03"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Moharram",
+          "session_date": "2022-08-09"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday          Independence Day",
+          "session_date": "2022-08-15"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday       Ganesh Chaturthi",
+          "session_date": "2022-08-31"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday       Dussehra",
+          "session_date": "2022-10-05"
+        },
+        {
+          "claim": "muhurat_session_announced",
+          "description": "Monday          Diwali-Laxmi Pujan*",
+          "session_date": "2022-10-24"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday       Diwali-Balipratipada",
+          "session_date": "2022-10-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday                Gurunanak Jayanti",
+          "session_date": "2022-11-08"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday        Ram Navami",
+          "session_date": "2022-04-10"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday        Maharashtra Day",
+          "session_date": "2022-05-01"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday        Bakri Id",
+          "session_date": "2022-07-10"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday        Mahatma Gandhi Jayanti",
+          "session_date": "2022-10-02"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday           Christmas",
+          "session_date": "2022-12-25"
+        }
+      ],
+      "reference": "NSE/CMTR/50560",
+      "retrieved_at": null,
+      "sha256": "731a4f0f3b3633e53ff344ffda23dab0277c4a6608f5a6da8874f931c9be4ead",
+      "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+      "year": 2022
+    },
+    {
+      "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+      "complete_calendar": false,
+      "filename": "CMTR54757.pdf",
+      "published_at": null,
+      "published_date": "2022-12-08",
+      "records": [
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Republic Day",
+          "session_date": "2023-01-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Holi",
+          "session_date": "2023-03-07"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Ram Navami",
+          "session_date": "2023-03-30"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Mahavir Jayanti",
+          "session_date": "2023-04-04"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Good Friday",
+          "session_date": "2023-04-07"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Dr. Baba Saheb Ambedkar Jayanti",
+          "session_date": "2023-04-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Maharashtra Day",
+          "session_date": "2023-05-01"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Bakri Id",
+          "session_date": "2023-06-28"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Independence Day",
+          "session_date": "2023-08-15"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Ganesh Chaturthi",
+          "session_date": "2023-09-19"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Mahatma Gandhi Jayanti",
+          "session_date": "2023-10-02"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Dussehra",
+          "session_date": "2023-10-24"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday          Diwali-Balipratipada",
+          "session_date": "2023-11-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Gurunanak Jayanti",
+          "session_date": "2023-11-27"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Christmas",
+          "session_date": "2023-12-25"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Mahashivratri",
+          "session_date": "2023-02-18"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Id-Ul-Fitr (Ramzan ID)",
+          "session_date": "2023-04-22"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Moharram",
+          "session_date": "2023-07-29"
+        },
+        {
+          "claim": "muhurat_session_announced",
+          "description": "Sunday           Diwali-Laxmi Pujan*",
+          "session_date": "2023-11-12"
+        }
+      ],
+      "reference": "NSE/CMTR/54757",
+      "retrieved_at": null,
+      "sha256": "035ea9a4178e322549b87c6d72f7fc74c7cec06e2d6074c01ac2a7e6a5a7b621",
+      "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+      "year": 2023
+    },
+    {
+      "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+      "complete_calendar": false,
+      "filename": "CMTR59722.pdf",
+      "published_at": null,
+      "published_date": "2023-12-12",
+      "records": [
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Republic Day",
+          "session_date": "2024-01-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Mahashivratri",
+          "session_date": "2024-03-08"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Holi",
+          "session_date": "2024-03-25"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Good Friday",
+          "session_date": "2024-03-29"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Id-Ul-Fitr (Ramadan Eid)",
+          "session_date": "2024-04-11"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Shri Ram Navmi",
+          "session_date": "2024-04-17"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Maharashtra Day",
+          "session_date": "2024-05-01"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday           Bakri Id",
+          "session_date": "2024-06-17"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Moharram",
+          "session_date": "2024-07-17"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday         Independence Day/Parsi New Year",
+          "session_date": "2024-08-15"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Mahatma Gandhi Jayanti",
+          "session_date": "2024-10-02"
+        },
+        {
+          "claim": "muhurat_session_announced",
+          "description": "Friday           Diwali Laxmi Pujan*",
+          "session_date": "2024-11-01"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday           Gurunanak Jayanti",
+          "session_date": "2024-11-15"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday        Christmas",
+          "session_date": "2024-12-25"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday           Dr. Baba Saheb Ambedkar Jayanti",
+          "session_date": "2024-04-14"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday           Shri Mahavir Jayanti",
+          "session_date": "2024-04-21"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Ganesh Chaturthi",
+          "session_date": "2024-09-07"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Dussehra",
+          "session_date": "2024-10-12"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Diwali-Balipratipada",
+          "session_date": "2024-11-02"
+        }
+      ],
+      "reference": "NSE/CMTR/59722",
+      "retrieved_at": null,
+      "sha256": "7157229ba94c179d280dd0d732da56d0992c482e862fac72d9d3879626c77c8a",
+      "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+      "year": 2024
+    },
+    {
+      "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+      "complete_calendar": false,
+      "filename": "CMTR65587.pdf",
+      "published_at": null,
+      "published_date": "2024-12-13",
+      "records": [
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday         Mahashivratri",
+          "session_date": "2025-02-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday            Holi",
+          "session_date": "2025-03-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday            Id-Ul-Fitr (Ramadan Eid)",
+          "session_date": "2025-03-31"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday          Shri Mahavir Jayanti",
+          "session_date": "2025-04-10"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday            Dr. Baba Saheb Ambedkar Jayanti",
+          "session_date": "2025-04-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday            Good Friday",
+          "session_date": "2025-04-18"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday          Maharashtra Day",
+          "session_date": "2025-05-01"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday            Independence Day",
+          "session_date": "2025-08-15"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday         Ganesh Chaturthi",
+          "session_date": "2025-08-27"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday          Mahatma Gandhi Jayanti/Dussehra",
+          "session_date": "2025-10-02"
+        },
+        {
+          "claim": "muhurat_session_announced",
+          "description": "Tuesday           Diwali Laxmi Pujan*",
+          "session_date": "2025-10-21"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday         Diwali-Balipratipada",
+          "session_date": "2025-10-22"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Wednesday         Prakash Gurpurb Sri Guru Nanak Dev",
+          "session_date": "2025-11-05"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday          Christmas",
+          "session_date": "2025-12-25"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday           Republic Day",
+          "session_date": "2025-01-26"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday           Shri Ram Navami",
+          "session_date": "2025-04-06"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday         Bakri Id",
+          "session_date": "2025-06-07"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday           Muharram",
+          "session_date": "2025-07-06"
+        }
+      ],
+      "reference": "NSE/CMTR/65587",
+      "retrieved_at": null,
+      "sha256": "1e0f85615fbbcde9243dd6cafbbad4d9b581b8d2467fd9e27c0a4fe42a720c7d",
+      "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+      "year": 2025
+    },
+    {
+      "caveat": "Annual notice only; later amendments and additional trading sessions are not established by this file.",
+      "complete_calendar": false,
+      "filename": "CMTR71775.pdf",
+      "published_at": null,
+      "published_date": "2025-12-12",
+      "records": [
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday          Republic Day",
+          "session_date": "2026-01-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Holi",
+          "session_date": "2026-03-03"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday        Shri Ram Navami",
+          "session_date": "2026-03-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Shri Mahavir Jayanti",
+          "session_date": "2026-03-31"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Good Friday",
+          "session_date": "2026-04-03"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Dr. Baba Saheb Ambedkar Jayanti",
+          "session_date": "2026-04-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Maharashtra Day",
+          "session_date": "2026-05-01"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Thursday        Bakri Id",
+          "session_date": "2026-05-28"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Muharram",
+          "session_date": "2026-06-26"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Monday          Ganesh Chaturthi",
+          "session_date": "2026-09-14"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Mahatma Gandhi Jayanti",
+          "session_date": "2026-10-02"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Dussehra",
+          "session_date": "2026-10-20"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Diwali-Balipratipada",
+          "session_date": "2026-11-10"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Tuesday         Prakash Gurpurb Sri Guru Nanak Dev",
+          "session_date": "2026-11-24"
+        },
+        {
+          "claim": "annual_weekday_closure",
+          "description": "Friday          Christmas",
+          "session_date": "2026-12-25"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Sunday            Mahashivratri",
+          "session_date": "2026-02-15"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday          Id-Ul-Fitr (Ramadan Eid)",
+          "session_date": "2026-03-21"
+        },
+        {
+          "claim": "annual_weekend_holiday",
+          "description": "Saturday          Independence Day",
+          "session_date": "2026-08-15"
+        },
+        {
+          "claim": "muhurat_session_announced",
+          "description": "Sunday            Diwali Laxmi Pujan*",
+          "session_date": "2026-11-08"
+        }
+      ],
+      "reference": "NSE/CMTR/71775",
+      "retrieved_at": null,
+      "sha256": "aa97e0afc0ce394097f2fc62631c68e3c2e4c7c23541ed35f21d9fc06b0dcacb",
+      "source_authenticity": "user_supplied_NSE_circular_not_independently_fetched",
+      "year": 2026
+    }
+  ]
+}

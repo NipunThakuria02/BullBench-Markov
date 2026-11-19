@@ -1,0 +1,12 @@
+{
+  "origin": "Original BullBench owner-supplied ZIP; historical exploratory evaluation",
+  "files_sha256": {
+    "results.json": "6a2e47040b9a0ac1b410703369741cb8f4cdd2efb291d0c0649faca557cb7e80",
+    "history/TATASTEEL.NS.json": "851ed9a705c5543b473bfc667757efcfceadbdc501abd7cb2b6cef7f24d74081",
+    "history/ICICIBANK.NS.json": "24e35cfedabc7ae89229f7d717182fa8d999cd541927b950427bb60f56c909bc",
+    "history/INDEX_NSEI.json": "50e3fda06dae15c758e235d24350bd7cd57fec6a57efb635564ba1074a2ef1af",
+    "history/TCS.NS.json": "a94d6b59e6e712edae5465fe83f02e2f5a59d88383fe63f13343642a796cd203",
+    "history/RELIANCE.NS.json": "1e0a9942b0b6dc390a0e5f1411703b8d9828e5f89244063d5bea7544034e2e74",
+    "history/HDFCBANK.NS.json": "8ac2d14e68282c47b172693d74c606cc83b52f9a1cacd53f9aa9951ab0801a03"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "asset": "TATASTEEL",
+  "status": "inference_only",
+  "research_track": "exploratory",
+  "config": {
+    "research_track": "exploratory",
+    "asset": "TATASTEEL",
+    "snapshots": "data/exploratory_snapshots",
+    "price_basis": "exploratory_adjusted_close",
+    "train_end": "2026-10-16",
+    "validation_end": "2025-09-30",
+    "event_quantile": 0.8,
+    "states": [
+      2,
+      3,
+      4
+    ],
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "max_iter": 300,
+    "evaluation_mode": "inference_only",
+    "threshold_train_end": "2023-03-31",
+    "validation_start": "2025-04-15",
+    "test_start": "2026-01-16",
+    "test_end": "2026-10-16",
+    "protocol_file": "docs/EXPLORATORY_PROTOCOL_V1.md",
+    "protocol_sha256": "66f4ef9b637621cd75fe5706c5c3443dfdf413954b904b5ff801b129a247564f"
+  },
+  "features": [
+    "return",
+    "abs_return",
+    "vol_5",
+    "vol_10",
+    "vol_20",
+    "vol_60"
+  ],
+  "trained_through": "2026-10-16",
+  "snapshot_manifest_sha256": [
+    "6893171030e08708b9cb2bd67ea5ff16169d2874efba548e23625fe74b2e42f0"
+  ],
+  "selected_states": 3,
+  "selected_seed": 44,
+  "metrics": {},
+  "price_metrics": {},
+  "final_test_evaluated": false,
+  "reference_evaluation": "tatasteel-historical-v1",
+  "notice": "Newest-data state explorer model. No out-of-sample score. Forecasting requires later verified observations/calendar.",
+  "files_sha256": {
+    "hmm.npz": "83fe8caf4210c6d707687f250503a9a21285bb4be706b62113295663d0243069"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "adapter_version": "exploratory-1",
+  "canonical_sha256": "c1896023d4f869b90d9e71d3cf39028b3d32e8044273c13f7b07745954703f6e",
+  "first_session": "2021-10-01",
+  "instrument": "ICICIBANK",
+  "last_session": "2026-10-16",
+  "permission_status": "unverified",
+  "publication_time_status": "unverified",
+  "published_at": null,
+  "raw_sha256": "931044b0c81a0f266dd80ff23920676274781aac48bd5b1e760a06b81e9f0243",
+  "research_track": "exploratory",
+  "retrieved_at": "2026-10-22T17:58:19.926703+00:00",
+  "rows": 1247,
+  "schema_version": 1,
+  "snapshot_id": "245cae77918a70a39c6685080b6ca6e968ceda8b66ea882bcf7aae0eba6c8071",
+  "source_authenticity": "vendor_or_user_supplied",
+  "source_identity": "Yahoo Finance via yfinance",
+  "source_url": "https://finance.yahoo.com"
+}

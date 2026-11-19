@@ -1,0 +1,722 @@
+[
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 0,
+    "n": 109,
+    "mean_probability": 0.029656714188651734,
+    "event_rate": 0.03669724770642202
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 1,
+    "n": 13,
+    "mean_probability": 0.1243853496253021,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "EWMA",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 1,
+    "n": 122,
+    "mean_probability": 0.1267781089696003,
+    "event_rate": 0.03278688524590164
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "GARCH-t",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 1,
+    "n": 120,
+    "mean_probability": 0.1342167657108796,
+    "event_rate": 0.03333333333333333
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 2,
+    "n": 2,
+    "mean_probability": 0.2267786231666638,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "HMM",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 0,
+    "n": 21,
+    "mean_probability": 0.08846176058484227,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 1,
+    "n": 98,
+    "mean_probability": 0.13081015544261065,
+    "event_rate": 0.04081632653061224
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 2,
+    "n": 3,
+    "mean_probability": 0.22841227396707964,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "LogisticRegression",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 1,
+    "n": 118,
+    "mean_probability": 0.19841269841269848,
+    "event_rate": 0.03389830508474576
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 2,
+    "n": 4,
+    "mean_probability": 0.234375,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "ObservableMarkov",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 0,
+    "n": 118,
+    "mean_probability": 0.0,
+    "event_rate": 0.03389830508474576
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Persistence",
+    "bin": 9,
+    "n": 4,
+    "mean_probability": 1.0,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 2,
+    "n": 122,
+    "mean_probability": 0.20192307692307698,
+    "event_rate": 0.03278688524590164
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "Prevalence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 0,
+    "n": 8,
+    "mean_probability": 0.07664235577295883,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 1,
+    "n": 104,
+    "mean_probability": 0.14175141700557112,
+    "event_rate": 0.038461538461538464
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 2,
+    "n": 10,
+    "mean_probability": 0.21229580038124962,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "RandomForest",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 0,
+    "n": 21,
+    "mean_probability": 0.07379742534387679,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 1,
+    "n": 86,
+    "mean_probability": 0.14326922716789467,
+    "event_rate": 0.046511627906976744
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 2,
+    "n": 11,
+    "mean_probability": 0.23109292713078586,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 3,
+    "n": 1,
+    "mean_probability": 0.32947859168052673,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 4,
+    "n": 2,
+    "mean_probability": 0.45038360357284546,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 5,
+    "n": 1,
+    "mean_probability": 0.579337477684021,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "ICICIBANK",
+    "model": "XGBoost",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  }
+]

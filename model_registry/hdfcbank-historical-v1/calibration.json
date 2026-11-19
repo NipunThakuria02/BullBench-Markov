@@ -1,0 +1,722 @@
+[
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 0,
+    "n": 36,
+    "mean_probability": 0.057066973669938625,
+    "event_rate": 0.1388888888888889
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 1,
+    "n": 44,
+    "mean_probability": 0.15132817123717587,
+    "event_rate": 0.29545454545454547
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 2,
+    "n": 58,
+    "mean_probability": 0.2424679781990942,
+    "event_rate": 0.13793103448275862
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 3,
+    "n": 25,
+    "mean_probability": 0.34640344781188814,
+    "event_rate": 0.32
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 4,
+    "n": 21,
+    "mean_probability": 0.449880806735386,
+    "event_rate": 0.5714285714285714
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "EWMA",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 1,
+    "n": 162,
+    "mean_probability": 0.1394186311723851,
+    "event_rate": 0.21604938271604937
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 2,
+    "n": 17,
+    "mean_probability": 0.24332271907464467,
+    "event_rate": 0.35294117647058826
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 3,
+    "n": 5,
+    "mean_probability": 0.36188590650001445,
+    "event_rate": 1.0
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "GARCH-t",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 0,
+    "n": 33,
+    "mean_probability": 0.07517823365492465,
+    "event_rate": 0.09090909090909091
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 1,
+    "n": 121,
+    "mean_probability": 0.16129265740773352,
+    "event_rate": 0.256198347107438
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 2,
+    "n": 19,
+    "mean_probability": 0.2198891493687448,
+    "event_rate": 0.21052631578947367
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 3,
+    "n": 11,
+    "mean_probability": 0.3562850662825234,
+    "event_rate": 0.7272727272727273
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "HMM",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 0,
+    "n": 16,
+    "mean_probability": 0.09172380130295643,
+    "event_rate": 0.125
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 1,
+    "n": 127,
+    "mean_probability": 0.14861692071402755,
+    "event_rate": 0.2204724409448819
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 2,
+    "n": 31,
+    "mean_probability": 0.23283851669995428,
+    "event_rate": 0.3225806451612903
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 3,
+    "n": 7,
+    "mean_probability": 0.33347351502092976,
+    "event_rate": 0.42857142857142855
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 4,
+    "n": 2,
+    "mean_probability": 0.4780068341583875,
+    "event_rate": 1.0
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 5,
+    "n": 1,
+    "mean_probability": 0.5116767837258831,
+    "event_rate": 1.0
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "LogisticRegression",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 1,
+    "n": 138,
+    "mean_probability": 0.13809523809523808,
+    "event_rate": 0.21014492753623187
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 2,
+    "n": 46,
+    "mean_probability": 0.24347826086956528,
+    "event_rate": 0.3695652173913043
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "ObservableMarkov",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 0,
+    "n": 138,
+    "mean_probability": 0.0,
+    "event_rate": 0.21014492753623187
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Persistence",
+    "bin": 9,
+    "n": 46,
+    "mean_probability": 1.0,
+    "event_rate": 0.3695652173913043
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 1,
+    "n": 184,
+    "mean_probability": 0.1524966261808367,
+    "event_rate": 0.25
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "Prevalence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 0,
+    "n": 30,
+    "mean_probability": 0.08311488960751194,
+    "event_rate": 0.23333333333333334
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 1,
+    "n": 96,
+    "mean_probability": 0.14574547622215792,
+    "event_rate": 0.16666666666666666
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 2,
+    "n": 45,
+    "mean_probability": 0.24677335261763564,
+    "event_rate": 0.3333333333333333
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 3,
+    "n": 9,
+    "mean_probability": 0.32908877007261844,
+    "event_rate": 0.6666666666666666
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 4,
+    "n": 4,
+    "mean_probability": 0.42538160173110096,
+    "event_rate": 0.5
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "RandomForest",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 0,
+    "n": 42,
+    "mean_probability": 0.06783618374417226,
+    "event_rate": 0.21428571428571427
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 1,
+    "n": 83,
+    "mean_probability": 0.15075272106262574,
+    "event_rate": 0.1927710843373494
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 2,
+    "n": 38,
+    "mean_probability": 0.23405321883527855,
+    "event_rate": 0.2631578947368421
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 3,
+    "n": 12,
+    "mean_probability": 0.3314852938055992,
+    "event_rate": 0.5
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 4,
+    "n": 7,
+    "mean_probability": 0.4369476352419172,
+    "event_rate": 0.42857142857142855
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 5,
+    "n": 1,
+    "mean_probability": 0.5803893208503723,
+    "event_rate": 1.0
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 6,
+    "n": 1,
+    "mean_probability": 0.6199461817741394,
+    "event_rate": 1.0
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "HDFCBANK",
+    "model": "XGBoost",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  }
+]

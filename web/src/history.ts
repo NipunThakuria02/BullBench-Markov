@@ -38,9 +38,10 @@ export async function getHistory(
   symbol: string,
   signal: AbortSignal,
 ): Promise<History> {
+  const apiBase = (import.meta.env.VITE_API_BASE_URL || "").replace(/\/$/, "");
   // Try the live API first; then fall back to a pre-exported static file.
   for (const url of [
-    `/api/history?symbol=${encodeURIComponent(symbol)}`,
+    `${apiBase}/api/history?symbol=${encodeURIComponent(symbol)}`,
     `/history/${historyFilename(symbol)}`,
   ]) {
     const isStatic = url.startsWith("/history/");

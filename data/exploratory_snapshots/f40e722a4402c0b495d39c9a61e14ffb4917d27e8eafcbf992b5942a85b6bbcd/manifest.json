@@ -1,0 +1,65 @@
+{
+  "adapter_version": "exploratory-nifty-batch-1",
+  "canonical_sha256": "1236ddc17c843660141c29a5de3d6662a32b6821c9192caf175003f49dd89884",
+  "first_session": "2021-10-01",
+  "input_files": [
+    {
+      "filename": "NIFTY50_OCT21toDEC21.csv",
+      "first_session": "2021-10-01",
+      "last_session": "2021-12-31",
+      "rows": 63,
+      "sha256": "662123474909f1f17e0b1883e18c048958712c1f62afbd5981046c2f3c4d63d8"
+    },
+    {
+      "filename": "NIFTY 50_JAN22toDEC22.csv",
+      "first_session": "2022-01-03",
+      "last_session": "2022-12-30",
+      "rows": 248,
+      "sha256": "d760bf82e661c8a2dc4fa7d15208a371c32c97f0a9e42eb2e907145d923c3ea1"
+    },
+    {
+      "filename": "NIFTY 50_JAN23toDEC23.csv",
+      "first_session": "2023-01-02",
+      "last_session": "2023-12-29",
+      "rows": 246,
+      "sha256": "850b9e85ff402b4e8df40e2859aa4f67f3cb675cab23ca75c2f83c5e511e7442"
+    },
+    {
+      "filename": "NIFTY 50_JAN24toDEC24.csv",
+      "first_session": "2024-01-01",
+      "last_session": "2024-12-31",
+      "rows": 249,
+      "sha256": "c82902875cbce8f957a94cd2389c95bac35b6e31c689497f817a87ec39096f77"
+    },
+    {
+      "filename": "NIFTY 50_JAN25toDEC25.csv",
+      "first_session": "2025-01-01",
+      "last_session": "2025-12-31",
+      "rows": 249,
+      "sha256": "ce1faf932060e5edde6615044e18c4754e8de73285e2ca412f2b22c9415f65d1"
+    },
+    {
+      "filename": "NIFTY 50_JAN26to16OCT26.csv",
+      "first_session": "2026-01-01",
+      "last_session": "2026-10-16",
+      "rows": 196,
+      "sha256": "739455a64d2b6d62f08288e4d7b8770e005cdf139833b5b64de26cdefbf15053"
+    }
+  ],
+  "instrument": "NIFTY 50",
+  "last_session": "2026-10-16",
+  "permission_status": "unverified",
+  "publication_time_status": "unverified",
+  "published_at": null,
+  "raw_sha256": "4549506481da6b5e1c07a7a665d536e2996f2e7d01750750fb41dcf05a621afb",
+  "research_track": "exploratory",
+  "retrieval_time_status": "not_provided",
+  "retrieved_at": null,
+  "rows": 1251,
+  "schema_version": 1,
+  "snapshot_id": "f40e722a4402c0b495d39c9a61e14ffb4917d27e8eafcbf992b5942a85b6bbcd",
+  "source_authenticity": "vendor_or_user_supplied",
+  "source_identity": "NSE Indices, user-supplied export",
+  "source_kind": "derived_concatenation_of_preserved_originals",
+  "source_url": "https://www.niftyindices.com/reports/historical-data"
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 0,
+    "n": 119,
+    "mean_probability": 0.027411734837882538,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 1,
+    "n": 3,
+    "mean_probability": 0.10620393228900006,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "EWMA",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 0,
+    "n": 119,
+    "mean_probability": 0.05507157123283435,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 1,
+    "n": 3,
+    "mean_probability": 0.10339487129858009,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "GARCH-t",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 0,
+    "n": 122,
+    "mean_probability": 0.08172704395105092,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "HMM",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 0,
+    "n": 78,
+    "mean_probability": 0.08870020535729446,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 1,
+    "n": 44,
+    "mean_probability": 0.11254103405213324,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "LogisticRegression",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 1,
+    "n": 122,
+    "mean_probability": 0.17063492063492064,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "ObservableMarkov",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 0,
+    "n": 122,
+    "mean_probability": 0.0,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Persistence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 2,
+    "n": 122,
+    "mean_probability": 0.20192307692307698,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "Prevalence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 0,
+    "n": 17,
+    "mean_probability": 0.09011704567574197,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 1,
+    "n": 97,
+    "mean_probability": 0.13439197595989066,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 2,
+    "n": 8,
+    "mean_probability": 0.24005593984347826,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "RandomForest",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 0,
+    "n": 6,
+    "mean_probability": 0.06963151693344116,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 1,
+    "n": 17,
+    "mean_probability": 0.15500308880034616,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 2,
+    "n": 44,
+    "mean_probability": 0.2543880428102883,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 3,
+    "n": 33,
+    "mean_probability": 0.35173661600459705,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 4,
+    "n": 12,
+    "mean_probability": 0.4247209206223488,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 5,
+    "n": 6,
+    "mean_probability": 0.5388802687327067,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 6,
+    "n": 4,
+    "mean_probability": 0.6110719293355942,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "NIFTY 50",
+    "model": "XGBoost",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  }
+]

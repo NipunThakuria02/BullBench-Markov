@@ -1,0 +1,722 @@
+[
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 0,
+    "n": 84,
+    "mean_probability": 0.051137202259852556,
+    "event_rate": 0.05952380952380952
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 1,
+    "n": 55,
+    "mean_probability": 0.13447493478350564,
+    "event_rate": 0.12727272727272726
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 2,
+    "n": 27,
+    "mean_probability": 0.24129451290249662,
+    "event_rate": 0.14814814814814814
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 3,
+    "n": 18,
+    "mean_probability": 0.3334065675499549,
+    "event_rate": 0.2777777777777778
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "EWMA",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 0,
+    "n": 70,
+    "mean_probability": 0.08714000461573676,
+    "event_rate": 0.02857142857142857
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 1,
+    "n": 93,
+    "mean_probability": 0.12832578543779552,
+    "event_rate": 0.13978494623655913
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 2,
+    "n": 21,
+    "mean_probability": 0.24140642600386375,
+    "event_rate": 0.2857142857142857
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "GARCH-t",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 0,
+    "n": 88,
+    "mean_probability": 0.09246901754753555,
+    "event_rate": 0.07954545454545454
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 1,
+    "n": 72,
+    "mean_probability": 0.12530365741628094,
+    "event_rate": 0.09722222222222222
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 2,
+    "n": 12,
+    "mean_probability": 0.2436298442763577,
+    "event_rate": 0.3333333333333333
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 3,
+    "n": 12,
+    "mean_probability": 0.33531135234775994,
+    "event_rate": 0.25
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "HMM",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 0,
+    "n": 84,
+    "mean_probability": 0.08550939796178295,
+    "event_rate": 0.05952380952380952
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 1,
+    "n": 94,
+    "mean_probability": 0.13427389788319416,
+    "event_rate": 0.1595744680851064
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 2,
+    "n": 6,
+    "mean_probability": 0.2214743416392265,
+    "event_rate": 0.16666666666666666
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "LogisticRegression",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 1,
+    "n": 184,
+    "mean_probability": 0.13696135441035495,
+    "event_rate": 0.11413043478260869
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "ObservableMarkov",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 0,
+    "n": 163,
+    "mean_probability": 0.0,
+    "event_rate": 0.11042944785276074
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Persistence",
+    "bin": 9,
+    "n": 21,
+    "mean_probability": 1.0,
+    "event_rate": 0.14285714285714285
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 1,
+    "n": 184,
+    "mean_probability": 0.13630229419703108,
+    "event_rate": 0.11413043478260869
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "Prevalence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 0,
+    "n": 78,
+    "mean_probability": 0.061241680621855345,
+    "event_rate": 0.05128205128205128
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 1,
+    "n": 80,
+    "mean_probability": 0.14052109086917222,
+    "event_rate": 0.1375
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 2,
+    "n": 24,
+    "mean_probability": 0.25025647831722825,
+    "event_rate": 0.20833333333333334
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 3,
+    "n": 2,
+    "mean_probability": 0.30919576689722095,
+    "event_rate": 0.5
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "RandomForest",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 0,
+    "n": 71,
+    "mean_probability": 0.0622563879727058,
+    "event_rate": 0.07042253521126761
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 1,
+    "n": 75,
+    "mean_probability": 0.13869970907767615,
+    "event_rate": 0.08
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 2,
+    "n": 32,
+    "mean_probability": 0.2308545233681798,
+    "event_rate": 0.28125
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 3,
+    "n": 6,
+    "mean_probability": 0.33350878457228345,
+    "event_rate": 0.16666666666666666
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "TATASTEEL",
+    "model": "XGBoost",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  }
+]

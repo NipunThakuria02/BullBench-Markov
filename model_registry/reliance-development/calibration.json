@@ -1,0 +1,722 @@
+[
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 0,
+    "n": 80,
+    "mean_probability": 0.05690568557577773,
+    "event_rate": 0.075
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 1,
+    "n": 38,
+    "mean_probability": 0.14899034986419646,
+    "event_rate": 0.07894736842105263
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 2,
+    "n": 4,
+    "mean_probability": 0.22529457036082023,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "EWMA",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 1,
+    "n": 122,
+    "mean_probability": 0.13544112129696204,
+    "event_rate": 0.07377049180327869
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "GARCH-t",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 1,
+    "n": 122,
+    "mean_probability": 0.1340315582965656,
+    "event_rate": 0.07377049180327869
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "HMM",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 1,
+    "n": 107,
+    "mean_probability": 0.15878372284401804,
+    "event_rate": 0.07476635514018691
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 2,
+    "n": 15,
+    "mean_probability": 0.21440511907864523,
+    "event_rate": 0.06666666666666667
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "LogisticRegression",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 1,
+    "n": 9,
+    "mean_probability": 0.1875,
+    "event_rate": 0.1111111111111111
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 2,
+    "n": 113,
+    "mean_probability": 0.21031746031746032,
+    "event_rate": 0.07079646017699115
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "ObservableMarkov",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 0,
+    "n": 113,
+    "mean_probability": 0.0,
+    "event_rate": 0.07079646017699115
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 2,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Persistence",
+    "bin": 9,
+    "n": 9,
+    "mean_probability": 1.0,
+    "event_rate": 0.1111111111111111
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 0,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 1,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 2,
+    "n": 122,
+    "mean_probability": 0.20192307692307698,
+    "event_rate": 0.07377049180327869
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 3,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "Prevalence",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 0,
+    "n": 1,
+    "mean_probability": 0.09709093641157888,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 1,
+    "n": 39,
+    "mean_probability": 0.16407418730698764,
+    "event_rate": 0.07692307692307693
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 2,
+    "n": 70,
+    "mean_probability": 0.23687525595159542,
+    "event_rate": 0.07142857142857142
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 3,
+    "n": 12,
+    "mean_probability": 0.31026476490069393,
+    "event_rate": 0.08333333333333333
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 4,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 5,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "RandomForest",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 0,
+    "n": 4,
+    "mean_probability": 0.08340657409280539,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 1,
+    "n": 48,
+    "mean_probability": 0.1599315426622828,
+    "event_rate": 0.041666666666666664
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 2,
+    "n": 40,
+    "mean_probability": 0.2537556815892458,
+    "event_rate": 0.15
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 3,
+    "n": 24,
+    "mean_probability": 0.34094828367233276,
+    "event_rate": 0.041666666666666664
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 4,
+    "n": 4,
+    "mean_probability": 0.43999357521533966,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 5,
+    "n": 2,
+    "mean_probability": 0.5347967445850372,
+    "event_rate": 0.0
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 6,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 7,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 8,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  },
+  {
+    "asset": "RELIANCE",
+    "model": "XGBoost",
+    "bin": 9,
+    "n": 0,
+    "mean_probability": null,
+    "event_rate": null
+  }
+]

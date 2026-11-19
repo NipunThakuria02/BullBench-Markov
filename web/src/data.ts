@@ -263,9 +263,10 @@ export function validRows(rows: Row[]): boolean {
 }
 
 export async function getResults(): Promise<Payload> {
+  const apiBase = (import.meta.env.VITE_API_BASE_URL || "").replace(/\/$/, "");
   let apiFailure = "";
-  for (const path of ["/api/results", "/results.json"]) {
-    const transport = path === "/api/results" ? "api" : "static";
+  for (const path of [`${apiBase}/api/results`, "/results.json"]) {
+    const transport = path.includes("/api/results") ? "api" : "static";
     try {
       const response = await fetch(path, {
         cache: "no-store",

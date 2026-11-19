@@ -84,16 +84,6 @@ def create_app(snapshot_root=None, registry_root=None, evidence_root=None):
                 "Local legacy results are disabled",
             )
 
-        if (
-            not request.client
-            or request.client.host
-            not in ("127.0.0.1", "::1", "testclient")
-        ):
-            raise HTTPException(
-                403,
-                "Local legacy results are restricted to loopback",
-            )
-
         try:
             listing = json.loads(
                 (legacy / "manifest.json").read_text()

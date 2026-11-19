@@ -1,0 +1,19 @@
+{
+  "adapter_version": "exploratory-1",
+  "canonical_sha256": "138ed387fe02468f2676a767e4c3af845b0b35be39ced515bc6d2f9e447d8c47",
+  "first_session": "2021-10-01",
+  "instrument": "TATASTEEL",
+  "last_session": "2026-10-16",
+  "permission_status": "unverified",
+  "publication_time_status": "unverified",
+  "published_at": null,
+  "raw_sha256": "5a476ce650fcae49f44700604589bca395092fed2c555cb868297e24ac43425a",
+  "research_track": "exploratory",
+  "retrieved_at": "2026-10-22T17:58:22.128726+00:00",
+  "rows": 1247,
+  "schema_version": 1,
+  "snapshot_id": "8e3a2afa917aea09c335d6f7a0f0291d3cf8c1af54260c7c57099923c0fa8692",
+  "source_authenticity": "vendor_or_user_supplied",
+  "source_identity": "Yahoo Finance via yfinance",
+  "source_url": "https://finance.yahoo.com"
+}

@@ -1,0 +1,19 @@
+{
+  "adapter_version": "exploratory-1",
+  "canonical_sha256": "07b5a00cadc95f47e8be70f332fff70c14b09b621933632cc42d673467946223",
+  "first_session": "2021-10-01",
+  "instrument": "HDFCBANK",
+  "last_session": "2026-10-16",
+  "permission_status": "unverified",
+  "publication_time_status": "unverified",
+  "published_at": null,
+  "raw_sha256": "f15755e51a0ff6796a3668d5762c2fcbf1a25d4a90d0e986c2afbae8fcbd0010",
+  "research_track": "exploratory",
+  "retrieved_at": "2026-10-22T17:58:19.222823+00:00",
+  "rows": 1247,
+  "schema_version": 1,
+  "snapshot_id": "cd3fb67d084b21ef82b1389927824cbd37323ba31c5ae4e3bb1df9ed3244080b",
+  "source_authenticity": "vendor_or_user_supplied",
+  "source_identity": "Yahoo Finance via yfinance",
+  "source_url": "https://finance.yahoo.com"
+}

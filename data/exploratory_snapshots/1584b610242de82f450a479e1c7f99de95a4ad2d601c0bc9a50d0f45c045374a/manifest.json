@@ -1,0 +1,19 @@
+{
+  "adapter_version": "exploratory-1",
+  "canonical_sha256": "44136131c5827dc90d7b889adf68f9839e4dd5739cdf6654f713a64b4f8b91ae",
+  "first_session": "2021-10-01",
+  "instrument": "TCS",
+  "last_session": "2026-10-16",
+  "permission_status": "unverified",
+  "publication_time_status": "unverified",
+  "published_at": null,
+  "raw_sha256": "010237db3b3e66bde7b8ad7484fd98b9c2936a7dac71f00ed8519c78f1ff224c",
+  "research_track": "exploratory",
+  "retrieved_at": "2026-10-22T17:58:20.576899+00:00",
+  "rows": 1247,
+  "schema_version": 1,
+  "snapshot_id": "1584b610242de82f450a479e1c7f99de95a4ad2d601c0bc9a50d0f45c045374a",
+  "source_authenticity": "vendor_or_user_supplied",
+  "source_identity": "Yahoo Finance via yfinance",
+  "source_url": "https://finance.yahoo.com"
+}

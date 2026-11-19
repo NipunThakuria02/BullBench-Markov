@@ -7,9 +7,9 @@ __pycache__/
 .env.*
 !.env.example
 
-# Data and models (large private files, not for GitHub)
-data/
-model_registry/
+# Large raw archive files only (if any)
+*.zip
+*.tar.gz
 
 # Tests and cache
 .pytest_cache/
