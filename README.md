@@ -133,6 +133,4 @@ npm --prefix web test
 
 ---
 
-## Attribution
 
-Derived from NipunThakuria02/BullBench. The original source contained no license. Confirm redistribution permission before any public release.
